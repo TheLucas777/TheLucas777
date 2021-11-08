@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java/C#
+- 🌱 I’m currently learning Java/HTML
 - 💞️ I’m looking to collaborate on TMB
 
 <!---
