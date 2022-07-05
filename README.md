@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelucas777&label=Profile%20views&color=0e75b6&style=flat" alt="thelucas777" /> </p>
 
-- 🔭 I’m currently working on [BayLife](https://www.baylife-rp.xyz)
+- 🔭 I’m currently working on [SchwanniKlick](https://github.com/TheLucas777/SchwanniKlick)
 
 - 🌱 I’m currently learning **Python**
 
